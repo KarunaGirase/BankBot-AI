@@ -1,0 +1,20 @@
+BANKING_KNOWLEDGE = [
+    "saving",
+    "savings",
+    "account",
+    "current",
+    "loan",
+    "deposit",
+    "fixed deposit",
+    "fd",
+    "interest",
+    "emi",
+    "atm",
+    "debit",
+    "credit",
+    "card",
+    "kyc",
+    "bank",
+    "withdraw",
+    "balance"
+]
