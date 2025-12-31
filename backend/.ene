@@ -1,8 +1,0 @@
-OLLAMA_SERVER=http://localhost:11434
-OLLAMA_MODEL=llama3
-
-MAX_TOKENS=512
-TEMPERATURE=0.2
-
-API_KEY=changeme123
-AUDIT_LOG=backend_audit.log
